@@ -1,11 +1,11 @@
-import { Meta, Story } from "@storybook/react";
-import Button from ".";
+import { Meta, Story } from '@storybook/react';
+import Button from '.';
 
 export default {
-  title: "Button",
+  title: 'Button',
   component: Button,
   parameters: {
-    layout: "padded",
+    layout: 'padded',
   },
 } as Meta;
 

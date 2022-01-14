@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const StyledButton = styled.button`
   background-color: #1ea7fd;
@@ -7,7 +7,7 @@ export const StyledButton = styled.button`
   color: white;
   cursor: pointer;
   display: inline-block;
-  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 1;
